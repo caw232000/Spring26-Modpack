@@ -1,0 +1,13 @@
+name = "Spring26-Modpack"
+author = "cawris"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "02f4869f1b33710a6f7dfe36d0821f631a3c16e16a21514677076e3a8153ae93"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
