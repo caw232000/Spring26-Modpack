@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a5962073af1533d393147fa6a19eddbadffe6e9b5f492e1fb1afe3a04128e896"
+hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
 metafile = true
 
 [[files]]
@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
+hash = "4f9f42729849acf0cc5b5b456bcee2398ba753669f35b873f4b33240ec3abce4"
 metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "8083402b75eeee721174e809e4c4c211642a1ec52c6192230654bd960c1145f8"
+hash = "7e79a9d41a0cd889772c43761477a2eeed88c2598c149dd8bc21130b16d699e4"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-ecologics.pw.toml"
-hash = "5fbf8c890c807b149695544b3b5dad6db8afc0583dbae9edee7ac36fbc9f4ac7"
+hash = "6b348934c013e4d6bc61dd41cdcc73d716ca5dc18ab69877269ebefcdc3d54d6"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "1859de5f388c57e08412a9f9ed2b9069ed8078a963264c0d66cb7eba13938538"
+hash = "08d12a69200642b29a2c8aff6b337f661c8756c2624d23db4b969b0610195823"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+hash = "2e88de6ccb041493cc6fa75ce102892ddb88529d5c380ba288c7b5f928a4f998"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+hash = "5d03d20b037a8b7a4765ded0e25146fc970964be46401dff5f9b1059875084e8"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
+hash = "b2c5b837f0b2f8919993105e68511de9420e727442320b373ed264617e904a70"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
+hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "726df3e3d225b391a44fcda33844f93f167c835cfca5f7de28b29ec816438ac0"
+hash = "d00f1385fedda2c3f45d423a390be65e440501e43c3ff4c81eea8eee7effc9e8"
 metafile = true
 
 [[files]]
@@ -242,5 +242,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
+hash = "fc026fe30861cf638c65c8035672a23218cce280a4cc253040c6a373d9ec023b"
 metafile = true
