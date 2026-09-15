@@ -16,6 +16,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "2de33e7d757cfa1108b05247cb59f6db2f08000af824da328322d78cdb7c4c4d"
 metafile = true
@@ -47,7 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft-community-edition.pw.toml"
-hash = "3b4033c4623de23e21abf97ef41d53f792d5d494e2e85b565e980392650b4ea3"
+hash = "81427ed7368ada1cf7dcb112bd0a9a3af1746d739ed3b19f8ca80285aba97723"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "46807a76af96c004997bf1fd867d9d2e02a8fa1ccf20ef3bcccef0b2ecd3294b"
 metafile = true
 
 [[files]]
@@ -96,6 +106,11 @@ hash = "88325807c01b522a76d686f39c442da99b73a90ae3ec9b5434fea5f79baa4d49"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "4f9f42729849acf0cc5b5b456bcee2398ba753669f35b873f4b33240ec3abce4"
 metafile = true
@@ -108,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-addon-lib.pw.toml"
+hash = "87d5524d15d21863dd4649729158d49ef4455a0031f3c0da8337bc9c8e52a444"
 metafile = true
 
 [[files]]
@@ -197,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b2c5b837f0b2f8919993105e68511de9420e727442320b373ed264617e904a70"
+hash = "6489606cef08f3f72bb4002655171a1b04efbf64b6cd4f42981d6b392738a0ce"
 metafile = true
 
 [[files]]

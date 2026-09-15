@@ -1,12 +1,12 @@
 name = "Spring26-Modpack"
 author = "cawris"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "edb4cfde1ae560322664621ef62df9bab1a3396b604f74bb6b5811e7c7fd495d"
+hash = "44c854b3f0f60e976803354b3562f444ac4232e64467a3a3a451820c46c8c763"
 
 [versions]
 forge = "47.4.18"
