@@ -1,0 +1,8 @@
+name = "IC2 Advanced Solar"
+filename = "advanced_solar_panels-4.3.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cwhit.net/mc/modfile/advanced_solar_panels-4.3.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "6327e265c4bb06d96430b6dd1e44f4483c3c3d45ffb4832f90d6b05264a53a94"

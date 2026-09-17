@@ -1,0 +1,8 @@
+name = "Discord Whitelist"
+filename = "discordwhitelist-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cwhit.net/mc/modfile/discordwhitelist-1.0.0.jar"
+hash-format = "sha256"
+hash = "eeeec65e86f1ecacff9649f7a458476e52ce0648d64c841580349b039012d1f9"

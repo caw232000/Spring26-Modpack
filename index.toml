@@ -81,6 +81,11 @@ hash = "b8c4cbfb4df67b7269d252b4228ed4bec174646e20a9143122363c06b99369f2"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/discord-whitelist.pw.toml"
+hash = "55f507703b2bdf120aa18fdd758010f6f308f85b012efb78297bc743c190beb4"
 metafile = true
 
 [[files]]
@@ -193,6 +203,21 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/ic2-advanced-machines.pw.toml"
+hash = "dd569f127564797de4440d6427c65287b2fc86c9662b70264e7939bbf20ea3dc"
+metafile = true
+
+[[files]]
+file = "mods/ic2-advanced-solar.pw.toml"
+hash = "5179f4afe64ed6966a9db7c9f393381e6342e389365a16fcdad5f1c4fc903afd"
+metafile = true
+
+[[files]]
+file = "mods/industrialcraft2.pw.toml"
+hash = "7a83561ee9e4cea1491e4bd9b5d3b59acd0299ed64e7d57a57afe6279b0642f2"
 metafile = true
 
 [[files]]
