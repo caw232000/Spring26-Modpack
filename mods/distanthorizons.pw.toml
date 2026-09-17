@@ -11,3 +11,7 @@ hash = "1ecd2b58f026d09154b6d678ecea9452f22c8a9704f8dfb6cc7d64cf6b6f88118ba4284c
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "FWGxbEM3"
+
+[option]
+optional = true
+description = "Renders distant terrain at low detail. Crashes and renders incorrectly on Macs — leave this off on Mac."

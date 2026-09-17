@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4f9f42729849acf0cc5b5b456bcee2398ba753669f35b873f4b33240ec3abce4"
+hash = "3ec3507cd1320c97c14d9c13e67beae6c7db0ab19c4b37e4fcb2d431eb7a3f28"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash = "3e1c00d56171c53fe6efbd86e21895029ba7a2329477168d91a46a4b3283a967"
 metafile = true
 
 [[files]]
