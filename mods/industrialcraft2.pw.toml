@@ -1,0 +1,8 @@
+name = "IndustrialCraft2"
+filename = "ic2-forge-2.10.33-ex120.jar"
+side = "both"
+
+[download]
+url = "https://cwhit.net/mc/modfile/ic2-forge-2.10.33-ex120.jar"
+hash-format = "sha256"
+hash = "9c2baabd51f6e5eecc0e75f9b0dc8474dd6d2a3dd701b1000924253d3aca110f"

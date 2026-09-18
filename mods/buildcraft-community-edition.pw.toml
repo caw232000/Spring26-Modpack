@@ -1,0 +1,13 @@
+name = "BuildCraft Community Edition"
+filename = "BuildCraft-Community-Edition-8.0.19+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z3Aj5eOl/versions/zTcgLyHu/BuildCraft-Community-Edition-8.0.19%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "aebf276fa9a067e6b7237db1017a6af588e178717e38c33c2c4fd682d5543be3d8cb6b7cf3c4a5f186877864d3360cfa8cf5e57060e3fde438ee7dab8fca39be"
+
+[update]
+[update.modrinth]
+mod-id = "z3Aj5eOl"
+version = "zTcgLyHu"

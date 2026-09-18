@@ -1,0 +1,8 @@
+name = "IC2 Advanced Machines"
+filename = "advanced_machines-61.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cwhit.net/mc/modfile/advanced_machines-61.0.3-1.20.1.jar"
+hash-format = "sha256"
+hash = "4717b9e19daa3fe82e58c58793b7f37fe101b161fbb7027a2e820a4e50a42bb1"

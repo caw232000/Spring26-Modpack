@@ -1,13 +1,13 @@
 name = "Dynamic Trees - Ecologics"
-filename = "DynamicTreesEcologics-1.20.1-1.1.0.jar"
+filename = "DynamicTreesEcologics-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2H9XSQjq/versions/tx1JaCSh/DynamicTreesEcologics-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/2H9XSQjq/versions/Uvb6cOxn/DynamicTreesEcologics-1.20.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "f57ba6b015ea0a23ca6bdcbd840b5f4d756181bad42082e257663e6d456bf1d66baa35c789db3dfc85a5f700fcac21241970da64e32aacb1dbfe650b03b6c341"
+hash = "0d368a8684177fbd7357746bed183230b79223d77c9dd441998c4765f375e3c4d9408b899cb04f0db056411f7e2d7b26d0a6c384458be43e5ef68766dd4b3c7f"
 
 [update]
 [update.modrinth]
 mod-id = "2H9XSQjq"
-version = "tx1JaCSh"
+version = "Uvb6cOxn"
