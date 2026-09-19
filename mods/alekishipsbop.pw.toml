@@ -1,0 +1,13 @@
+name = "Nifty Ships + Biomes O'Plenty Compat"
+filename = "niftyShipsBiomesOPlenty-FORGE-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5rDQT07E/versions/EI64BVLv/niftyShipsBiomesOPlenty-FORGE-1.20.1-1.0.4.jar"
+hash-format = "sha512"
+hash = "b83eb25b3e2907452f5d39215fecdc95224783ce8d7637c9db1f5f7b881bb4de7540090e871bfbda904350041a1e9217a5f6df4883f13a760f42077f40192c4e"
+
+[update]
+[update.modrinth]
+mod-id = "5rDQT07E"
+version = "EI64BVLv"
