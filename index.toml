@@ -291,6 +291,16 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-projecte-fork.pw.toml"
+hash = "efc747e3c90e534a0477f41cd7333b3254e7bdfc51bac4731493433d98160294"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "9ec37ad87c0c174bdafe7d52fc98f96b83aaef0ad42ae59e196655d3d784f31f"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
