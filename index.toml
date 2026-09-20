@@ -326,11 +326,6 @@ hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
 
 [[files]]
-file = "mods/nifty-ships-every-wooden-variant.pw.toml"
-hash = "cd4e1bf01f7559776a0d377bf2c039789e0c9d11ec70cd87dde76da4220b78b7"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "3e1c00d56171c53fe6efbd86e21895029ba7a2329477168d91a46a4b3283a967"
 metafile = true
