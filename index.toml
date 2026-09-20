@@ -176,13 +176,8 @@ hash = "6b348934c013e4d6bc61dd41cdcc73d716ca5dc18ab69877269ebefcdc3d54d6"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-regions-unexplored-updated.pw.toml"
-hash = "590fae9a84952c7498386786807e54756e0173551d965b6f24af9f725a36cfb1"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-ru.pw.toml"
-hash = "ea1ae7d532881f63e9ac11fb9ccbc17724ede54a9d030a052353aa59cbd6ec97"
+hash = "afcb4b4d0a2f1331d6ae44cfbc3cafcdf65c93e3c30b2ca6b242c6a011ce1dd0"
 metafile = true
 
 [[files]]
