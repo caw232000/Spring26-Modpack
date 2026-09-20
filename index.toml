@@ -96,11 +96,6 @@ hash = "b8c4cbfb4df67b7269d252b4228ed4bec174646e20a9143122363c06b99369f2"
 metafile = true
 
 [[files]]
-file = "mods/chloride.pw.toml"
-hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
-metafile = true
-
-[[files]]
 file = "mods/chunky-autopause.pw.toml"
 hash = "f8c2db28aae033057eb648fcda48617215e499bdf8720565ea87bfdc3897c9cd"
 metafile = true
@@ -243,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/ic2-advanced-solar.pw.toml"
 hash = "5179f4afe64ed6966a9db7c9f393381e6342e389365a16fcdad5f1c4fc903afd"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
