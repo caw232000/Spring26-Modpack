@@ -176,6 +176,11 @@ hash = "6b348934c013e4d6bc61dd41cdcc73d716ca5dc18ab69877269ebefcdc3d54d6"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-regions-unexplored-updated.pw.toml"
+hash = "fbaed84551bc4befa557ac3f287e82d1d3c573e916b5985fdcb36e20b7607426"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-ru.pw.toml"
 hash = "afcb4b4d0a2f1331d6ae44cfbc3cafcdf65c93e3c30b2ca6b242c6a011ce1dd0"
 metafile = true
@@ -321,6 +326,11 @@ hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
 
 [[files]]
+file = "mods/nifty-ships-every-wooden-variant.pw.toml"
+hash = "cd4e1bf01f7559776a0d377bf2c039789e0c9d11ec70cd87dde76da4220b78b7"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "3e1c00d56171c53fe6efbd86e21895029ba7a2329477168d91a46a4b3283a967"
 metafile = true
@@ -377,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
+hash = "29ca77361c1782fcbcef60bf23a468070f05fb59706a54c5daebcd9634d4a8a3"
 metafile = true
 
 [[files]]
