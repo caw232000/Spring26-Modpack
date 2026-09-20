@@ -12,12 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/alekiships.pw.toml"
-hash = "f5aa2b8d76f3bf96459c11bf511475c4ee12647a3fea30e5d48beddd670499fd"
-metafile = true
-
-[[files]]
-file = "mods/alekishipsbop.pw.toml"
-hash = "c86e86298999b6dc2b146750122feaa6827627c3c993d5252d7ea2deed024402"
+hash = "1a15600bfc496f94f93da7062f19ce4a403478936600953c32e38235818a9027"
 metafile = true
 
 [[files]]
@@ -318,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
+metafile = true
+
+[[files]]
+file = "mods/nifty-ships-every-wooden-variant-muddycompat.pw.toml"
+hash = "bf14f8e6e7eae17af9fe1d2407c2ea6c0d4a4ac2b4a5f8c9067527ecd698c67e"
 metafile = true
 
 [[files]]
