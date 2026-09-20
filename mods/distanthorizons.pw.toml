@@ -15,3 +15,4 @@ version = "FWGxbEM3"
 [option]
 optional = true
 description = "Renders distant terrain at low detail. Crashes and renders incorrectly on Macs — leave this off on Mac."
+default = true

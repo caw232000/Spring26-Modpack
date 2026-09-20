@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "3ec3507cd1320c97c14d9c13e67beae6c7db0ab19c4b37e4fcb2d431eb7a3f28"
+hash = "2814cdba409733d53aa744532d797ac89cb021934d7486750dd4f428d573504a"
 metafile = true
 
 [[files]]
@@ -238,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/ic2-advanced-solar.pw.toml"
 hash = "5179f4afe64ed6966a9db7c9f393381e6342e389365a16fcdad5f1c4fc903afd"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
