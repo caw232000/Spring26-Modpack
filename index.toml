@@ -509,3 +509,33 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "36f0c68246d34c6e911190e1fd4ff5a8512c3a239d00739fffa6855b807f0ad3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
